@@ -159,7 +159,6 @@ const Community = () => {
               <Button 
                 onClick={handleCreatePost}
                 disabled={!newPost.trim()}
-                variant="hero"
               >
                 Post to Community
               </Button>

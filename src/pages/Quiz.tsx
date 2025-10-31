@@ -232,7 +232,6 @@ const Quiz = () => {
                   onClick={handleNextQuestion}
                   className="w-full"
                   size="lg"
-                  variant="hero"
                 >
                   {currentQuestion < questions.length - 1 ? "Next Question" : "Complete Quiz"}
                 </Button>

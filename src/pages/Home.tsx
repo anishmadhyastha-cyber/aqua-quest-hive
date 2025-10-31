@@ -59,7 +59,7 @@ const Home = () => {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link to="/quiz">
-                  <Button variant="hero" size="lg" className="gap-2">
+                  <Button size="lg" className="gap-2">
                     <Droplets className="h-5 w-5" />
                     Start Daily Quiz
                   </Button>
