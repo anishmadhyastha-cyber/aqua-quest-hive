@@ -52,8 +52,11 @@ const Home = () => {
                 Join the Water Conservation Movement
               </div>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-                Every Drop <span className="bg-gradient-to-r from-primary via-primary-glow to-secondary bg-clip-text text-transparent">Counts</span>
+                Every Drop Counts
               </h1>
+              <p className="text-xl text-primary font-semibold">
+                Measure. Act. Inspire.
+              </p>
               <p className="text-lg text-muted-foreground max-w-xl">
                 Track your water footprint, take on challenges, and join a community dedicated to making a real impact on water conservation.
               </p>

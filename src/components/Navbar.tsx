@@ -19,7 +19,7 @@ const Navbar = () => {
         <div className="flex h-14 items-center justify-between">
           <Link to="/" className="flex items-center gap-2 font-bold text-lg text-primary">
             <Droplets className="h-5 w-5" />
-            <span>AquaAware</span>
+            <span>H2Ope</span>
           </Link>
           
           <div className="hidden md:flex items-center gap-1">
